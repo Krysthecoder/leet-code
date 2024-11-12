@@ -25,7 +25,7 @@ var twoSum = function (nums, target) {
   return solution;
 };
 
-/// solution grabbed from other ppl
+/// solution grabbed from other people
 
 var twoSum = function (nums, target) {
   let map = {};
